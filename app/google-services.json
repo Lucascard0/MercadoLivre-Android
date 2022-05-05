@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "516947732202",
+    "project_id": "mercadolivreaula-c4370",
+    "storage_bucket": "mercadolivreaula-c4370.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516947732202:android:48c718171aba32e9fcd993",
+        "android_client_info": {
+          "package_name": "com.example.aulamercadolivre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516947732202-fm3s3i2fkke6b5lpu4fkut37vuv4hbfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnoxo-DeQ_lp7ux5QmHyr9iCx2tNNT5xU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516947732202-fm3s3i2fkke6b5lpu4fkut37vuv4hbfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
